@@ -232,6 +232,7 @@ CLASS_MAPPER_BASE = {
     "corelight_linux": CorelightLinuxSSH,
     "coriant": CoriantSSH,
     "cumulus_linux": CumulusLinuxSSH,
+    "dell_fnioa": DellForce10SSH,
     "dell_dnos9": DellForce10SSH,
     "dell_force10": DellForce10SSH,
     "dell_os6": DellDNOS6SSH,
